@@ -6,12 +6,12 @@ The Gastric Lavage Simulator is designed to simulate the medical procedure of ga
 
 ## [![Watch the Video](video_thumbnail.png)](https://drive.google.com/file/d/1I8HfTiA9kVP-dUlmKWVhIholbhqmzK7l/view?usp=sharing)
 
+## Project Report
+For a detailed report on the Gastric Lavage Simulator Project, please refer to the [Project Report ](ProjectReport.pdf).
 
 ## Project Planning
 ![Gastric Lavage Simulator](Planning.jpeg)
 
-## Project Report
-For a detailed report on the Gastric Lavage Simulator Project, please refer to the [Project Report ](ProjectReport.pdf).
 
 ## Project Steps and Workflow
 
