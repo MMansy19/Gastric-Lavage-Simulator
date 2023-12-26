@@ -1,0 +1,9 @@
+@keyframes customSpin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .customSpin {
+    animation: customSpin var(--rotation-speed, 3s) linear infinite; /* Default speed: 3s */
+  }
