@@ -4,7 +4,7 @@ Welcome to the Gastric Lavage Simulator project!
 ## Description
 The Gastric Lavage Simulator is designed to simulate the medical procedure of gastric lavage, providing a hands-on and visual learning experience for medical students and professionals.
 
-## [![Watch the Video](video_thumbnail.png)](https://drive.google.com/file/d/1I8HfTiA9kVP-dUlmKWVhIholbhqmzK7l/view?usp=sharing)
+## 🎥 [Watch the Demo Video](https://drive.google.com/file/d/1I8HfTiA9kVP-dUlmKWVhIholbhqmzK7l/view?usp=sharing)
 
 ## Project Report
 For a detailed report on the Gastric Lavage Simulator Project, please refer to the [Project Report ](ProjectReport.pdf).
